@@ -1,4 +1,4 @@
-Python Whiteboard
+Python Whiteboard 
 This Python Whiteboard application allows users to create drawings, add images, zoom in and out, and erase content. It provides a simple and intuitive interface for expressing creativity or visualizing ideas.
 
 Features
