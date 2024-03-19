@@ -8,3 +8,10 @@
   <li><h3>Image Insert:</h3>Users can import images onto the canvas to incorporate visuals into their drawings.</li>
   <li><h3>Resizable Canvas: </h3>The canvas size can be adjusted to fit the user's preferences.</li>
 </ul>
+
+<h2>Dependencies</h2>
+<ol>
+<li>Python 3.x</li>
+<li>Tkinter library (usually comes pre-installed with Python)</li>
+<li>Pillow library (for image handling)</li>
+</ol>
